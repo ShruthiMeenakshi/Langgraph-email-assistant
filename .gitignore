@@ -1,0 +1,30 @@
+# Virtual environment
+/ai/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+/.vscode/
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+#env file
+.env
+
+# Google credential files
+client_secret_197458863485-1e5gk1pgct197ammg1r38tnr7kf864oc.apps.googleusercontent.com.json
+gmail_creds.json
+
+get_gmail_refresh_token.py
+
+# project structure
+project config.txt
